@@ -1,1 +1,1 @@
-This is a Write txt file.
+This is a Write txt file. added somw text .
